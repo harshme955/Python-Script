@@ -1,0 +1,7 @@
+##Create a Personalized Greeting##
+stg1=input("Enter the First name = ")
+stg2=input("Enter the last name = ")
+stg3= "Hello"
+stg4= "Welcome to the python program."
+x= "{} {} {}! {}".format(stg3,stg1,stg2,stg4)
+print(x)
